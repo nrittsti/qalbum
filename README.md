@@ -1,0 +1,2 @@
+# qalbum
+picture renaming script
