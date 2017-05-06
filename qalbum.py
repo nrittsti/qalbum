@@ -47,7 +47,7 @@ def main():
     # create album objects
     albums = create_albums(path, pictures)
     # create a subdirs for each album?
-    if input("Create subdirs for picture albums? [y/n]: ").lower() == "y":
+    if input("Create subdirs for photo albums? [y/n]: ").lower() == "y":
         i = 0;
         for album in albums:
             i += 1
